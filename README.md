@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
 <h3 align="center">A passionate software engineer from NYC</h3>
 
-- 👨‍💻 All of my projects are available at [https://tony-tsang.com](https://tony-tsang.com)
+- 👨‍💻 All of my projects are available at [tony-tsang.com](https://www.tony-tsang.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

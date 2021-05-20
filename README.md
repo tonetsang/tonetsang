@@ -5,6 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+ [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="offcell" height="30" width="40" />](https://codepen.io/offcell)
 <a href="https://codepen.io/offcell" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="offcell" height="30" width="40" /></a>
 <a href="https://twitter.com/offcell" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="offcell" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tony-tsang" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tony-tsang" height="30" width="40" /></a>

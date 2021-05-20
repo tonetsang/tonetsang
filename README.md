@@ -5,11 +5,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/offcell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="offcell" height="30" width="40" /></a>
-<a href="https://twitter.com/offcell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="offcell" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tony-tsang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tony-tsang" height="30" width="40" /></a>
-<a href="https://fb.com/offcell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="offcell" height="30" width="40" /></a>
-<a href="https://instagram.com/tsangtone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tsangtone" height="30" width="40" /></a>
+<a href="https://codepen.io/offcell" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="offcell" height="30" width="40" /></a>
+<a href="https://twitter.com/offcell" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="offcell" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tony-tsang" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tony-tsang" height="30" width="40" /></a>
+<a href="https://fb.com/offcell" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="offcell" height="30" width="40" /></a>
+<a href="https://instagram.com/tsangtone" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tsangtone" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
